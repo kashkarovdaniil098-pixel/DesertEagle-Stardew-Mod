@@ -1,11 +1,11 @@
+
+
 {
   "Name": "Desert Eagle",
   "Author": "DesertEagle",
   "Version": "1.0.0",
-  "Description": "Adds a golden eagle collectible.",
+  "Description": "Adds a Desert Eagle with shooting effects, ammunition and reloading.",
   "UniqueID": "DesertEagle.DesertEagle",
-  "ContentPackFor": {
-    "UniqueID": "Pathoschild.ContentPatcher",
-    "MinimumVersion": "2.0.0"
-  }
+  "EntryDll": "DesertEagle.dll",
+  "MinimumApiVersion": "4.0.0"
 }
