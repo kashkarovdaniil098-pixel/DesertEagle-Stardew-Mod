@@ -1,0 +1,9 @@
+{
+  "Name": "Desert Eagle",
+  "Author": "DesertEagle",
+  "Version": "1.0.0",
+  "Description": "Desert Eagle Stardew Valley mod",
+  "UniqueID": "DesertEagle.DesertEagle",
+  "EntryDll": "DesertEagle.dll",
+  "MinimumApiVersion": "4.0.0"
+}
